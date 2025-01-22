@@ -1,3 +1,5 @@
+## RAG model : LLAMA3.2 LLM model used to chat with pdf and user history stored in POSTGRES SQL DATABASE.
+
 import os
 import torch
 import psycopg2
